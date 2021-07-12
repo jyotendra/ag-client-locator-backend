@@ -1,3 +1,8 @@
+## Stack
+- Nest.js
+- AWS Lambda Services
+- Serverless
+
 ## Environment Variables
 
 Following environment variables are required for the application. If deploying on EC2 then create `.env.prod` file, or enter the environment variables in AWS lambda console if deploying over serverless:
